@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a robotics software developer working with various type of programming languages c, c++, python, Qt5, Javascript, typescrip, vue js, rest API and much more
+I am a robotics software developer proficient in a diverse range of programming languages, including C, C++, Python, and JavaScript. Additionally, I have expertise in frameworks like Qt5 and Vue.js, and I am skilled in developing REST APIs.
 
 
 ## 🌐 Socials:
